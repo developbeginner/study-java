@@ -1,4 +1,4 @@
-package developbeginner.prototype.framework;
+package developbeginner.prototype.example.framework;
 
 public interface Product extends Cloneable {
     public abstract void use(String s);

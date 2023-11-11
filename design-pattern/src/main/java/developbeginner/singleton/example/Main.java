@@ -1,4 +1,4 @@
-package developbeginner.singleton;
+package developbeginner.singleton.example;
 
 public class Main {
     public static void main(String[] args) {

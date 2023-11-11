@@ -1,4 +1,4 @@
-package developbeginner.singleton.problem;
+package developbeginner.singleton.problem.answer1;
 
 public class TicketMakerMain {
     public static void main(String[] args) {

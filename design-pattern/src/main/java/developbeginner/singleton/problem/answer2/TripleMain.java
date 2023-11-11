@@ -1,4 +1,4 @@
-package developbeginner.singleton.problem;
+package developbeginner.singleton.problem.answer2;
 
 public class TripleMain {
     public static void main(String[] args) {

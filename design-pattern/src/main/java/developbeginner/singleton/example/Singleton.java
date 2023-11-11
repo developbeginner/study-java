@@ -1,4 +1,4 @@
-package developbeginner.singleton;
+package developbeginner.singleton.example;
 
 public class Singleton {
     private static Singleton singleton = new Singleton();

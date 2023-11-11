@@ -1,4 +1,4 @@
-package developbeginner.builder;
+package developbeginner.builder.example;
 
 public abstract class Builder {
     public abstract void makeTitle(String title);

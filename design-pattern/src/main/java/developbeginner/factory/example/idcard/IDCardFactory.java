@@ -1,7 +1,7 @@
-package developbeginner.factory.idcard;
+package developbeginner.factory.example.idcard;
 
-import developbeginner.factory.framework.Factory;
-import developbeginner.factory.framework.Product;
+import developbeginner.factory.example.framework.Factory;
+import developbeginner.factory.example.framework.Product;
 
 public class IDCardFactory extends Factory {
     @Override

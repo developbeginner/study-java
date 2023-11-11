@@ -4,7 +4,7 @@
  * Singleton 패턴을 적용하여 하나의 인스턴스만 만들어지도록 변경하라.
  */
 
-package developbeginner.singleton.problem;
+package developbeginner.singleton.problem.answer1;
 
 public class TicketMaker {
     private static TicketMaker ticketMaker = new TicketMaker();

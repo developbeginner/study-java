@@ -1,4 +1,4 @@
-package developbeginner.builder;
+package developbeginner.builder.example;
 
 public class TextBuilder extends Builder {
     private StringBuilder sb = new StringBuilder();

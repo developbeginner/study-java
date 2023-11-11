@@ -4,7 +4,7 @@
  * 인스턴스는 "ALPHA", "BETA", "GAMMA" 이름을 갖고 있으며, getInstance(name)으로 name의 인스턴스를 가져올 수 있다.
  */
 
-package developbeginner.singleton.problem;
+package developbeginner.singleton.problem.answer2;
 
 public class Triple {
     private static Triple ALPHA = new Triple();

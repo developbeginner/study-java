@@ -1,8 +1,8 @@
-package developbeginner.factory;
+package developbeginner.factory.example;
 
-import developbeginner.factory.framework.Factory;
-import developbeginner.factory.framework.Product;
-import developbeginner.factory.idcard.IDCardFactory;
+import developbeginner.factory.example.framework.Factory;
+import developbeginner.factory.example.framework.Product;
+import developbeginner.factory.example.idcard.IDCardFactory;
 
 public class Main {
     public static void main(String[] args) {

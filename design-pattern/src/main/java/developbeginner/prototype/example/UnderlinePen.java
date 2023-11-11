@@ -1,6 +1,6 @@
-package developbeginner.prototype;
+package developbeginner.prototype.example;
 
-import developbeginner.prototype.framework.Product;
+import developbeginner.prototype.example.framework.Product;
 
 public class UnderlinePen implements Product {
     private char ulCharacter;

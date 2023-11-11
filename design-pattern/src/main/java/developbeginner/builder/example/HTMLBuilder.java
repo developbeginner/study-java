@@ -1,4 +1,4 @@
-package developbeginner.builder;
+package developbeginner.builder.example;
 
 import java.io.FileWriter;
 import java.io.IOException;

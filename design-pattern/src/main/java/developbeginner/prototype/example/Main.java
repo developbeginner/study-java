@@ -1,7 +1,7 @@
-package developbeginner.prototype;
+package developbeginner.prototype.example;
 
-import developbeginner.prototype.framework.Manager;
-import developbeginner.prototype.framework.Product;
+import developbeginner.prototype.example.framework.Manager;
+import developbeginner.prototype.example.framework.Product;
 
 public class Main {
     public static void main(String[] args) {

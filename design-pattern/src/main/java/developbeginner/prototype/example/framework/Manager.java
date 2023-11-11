@@ -1,4 +1,4 @@
-package developbeginner.prototype.framework;
+package developbeginner.prototype.example.framework;
 
 import java.util.HashMap;
 import java.util.Map;
